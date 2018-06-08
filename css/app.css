@@ -4,6 +4,7 @@ body{
 .header div{
   background: rgba(31, 66, 157, 0.48);
   border: 10px ridge blue;
+  margin-top: 10px;
 }
 #der{
   text-align: right;
@@ -16,4 +17,6 @@ body{
 .prim div{
   background: rgba(213, 202, 231, 0.53);
   border: 0px solid black;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
